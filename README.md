@@ -8,7 +8,8 @@ A MERN stack web application for file sharing typically involves utilizing Mongo
 
 <br>
 <br>
-![Screenshot 2024-03-13 144340](https://github.com/balrajegorad/mern-file-sharing-web-app/assets/116410865/3d50d62e-9308-4133-8d1d-c8f0f2609525)
+![Screenshot 2024-03-13 144340](https://github.com/balrajegorad/mern-file-sharing-web-app/assets/116410865/de30955d-981e-40a6-8aaa-239daab43efa)
+
 <br>
 <br>
 
